@@ -1,0 +1,5 @@
+{
+  "name": "neurons",
+  "version": "2.1.0",
+  "description": "A thinking-graph layer for AI agents: many small graphs of ideas that survive context compaction."
+}
